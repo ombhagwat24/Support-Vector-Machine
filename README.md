@@ -1,5 +1,5 @@
 # Support-Vector-Machine
-#Salary Data
+Salary Data Problem Statment
 
 1) Prepare a classification model using SVM for salary data 
 
